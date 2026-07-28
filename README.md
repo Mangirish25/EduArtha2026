@@ -17,7 +17,7 @@ Built for the **Build with Gemma 4 | AI Durg Hackathon** under the **Vaani – V
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
 
-**Live Demo:** https://your-demo-link.vercel.app
+**Live Demo:** https://eduartha.vercel.app/
 
 </div>
 
