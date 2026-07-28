@@ -1,0 +1,65 @@
+
+> eduvaani@1.0.0 dev
+> next dev -p 3002
+
+   ▲ Next.js 15.5.22
+   - Local:        http://localhost:3002
+   - Network:      http://172.18.48.1:3002
+   - Environments: .env.local
+   - Experiments (use with caution):
+     · serverActions
+
+ ✓ Starting...
+ ✓ Ready in 2.9s
+ ○ Compiling /explain ...
+ ✓ Compiled /explain in 8.6s (1911 modules)
+ GET /explain 200 in 9484ms
+ ✓ Compiled in 1386ms (884 modules)
+ ✓ Compiled in 513ms (884 modules)
+ ✓ Compiled in 528ms (884 modules)
+ ✓ Compiled in 564ms (884 modules)
+ ✓ Compiled in 489ms (884 modules)
+ ✓ Compiled in 486ms (884 modules)
+ ✓ Compiled in 564ms (884 modules)
+ ✓ Compiled in 2.6s (884 modules)
+ ✓ Compiled in 1556ms (884 modules)
+ ✓ Compiled in 992ms (884 modules)
+ ✓ Compiled in 514ms (884 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\Mangirish\OneDrive\Desktop\My_Fortress_of_Obsession\My Projects\VidhyaVaani\.next\cache\webpack\client-development\5.pack.gz_' -> 'C:\Users\Mangirish\OneDrive\Desktop\My_Fortress_of_Obsession\My Projects\VidhyaVaani\.next\cache\webpack\client-development\5.pack.gz'
+ ✓ Compiled in 1509ms (884 modules)
+ ✓ Compiled in 2s (884 modules)
+ ✓ Compiled in 1804ms (884 modules)
+ ✓ Compiled in 1071ms (884 modules)
+ ✓ Compiled in 909ms (884 modules)
+ ✓ Compiled in 935ms (884 modules)
+ ✓ Compiled in 2.2s (886 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Restoring pack failed from C:\Users\Mangirish\OneDrive\Desktop\My_Fortress_of_Obsession\My Projects\VidhyaVaani\.next\cache\webpack\client-development.pack.gz: Error: incorrect header check
+ ✓ Compiled in 3s (886 modules)
+ ✓ Compiled in 1170ms (886 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\Mangirish\OneDrive\Desktop\My_Fortress_of_Obsession\My Projects\VidhyaVaani\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\Mangirish\OneDrive\Desktop\My_Fortress_of_Obsession\My Projects\VidhyaVaani\.next\cache\webpack\client-development\0.pack.gz'
+ ✓ Compiled in 1973ms (886 modules)
+ ✓ Compiled in 1261ms (886 modules)
+ ✓ Compiled in 808ms (886 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\Mangirish\OneDrive\Desktop\My_Fortress_of_Obsession\My Projects\VidhyaVaani\.next\cache\webpack\client-development\11.pack.gz_' -> 'C:\Users\Mangirish\OneDrive\Desktop\My_Fortress_of_Obsession\My Projects\VidhyaVaani\.next\cache\webpack\client-development\11.pack.gz'
+ ✓ Compiled in 983ms (886 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\Mangirish\OneDrive\Desktop\My_Fortress_of_Obsession\My Projects\VidhyaVaani\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\Mangirish\OneDrive\Desktop\My_Fortress_of_Obsession\My Projects\VidhyaVaani\.next\cache\webpack\client-development\0.pack.gz'
+ ✓ Compiled in 2.1s (885 modules)
+ ✓ Compiled in 1062ms (885 modules)
+ ✓ Compiled in 791ms (885 modules)
+ ✓ Compiled in 1298ms (871 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: EPERM: operation not permitted, rename 'C:\Users\Mangirish\OneDrive\Desktop\My_Fortress_of_Obsession\My Projects\VidhyaVaani\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\Mangirish\OneDrive\Desktop\My_Fortress_of_Obsession\My Projects\VidhyaVaani\.next\cache\webpack\client-development\0.pack.gz'
+ ✓ Compiled in 958ms (885 modules)
+ ✓ Compiled in 1356ms (885 modules)
+ ✓ Compiled in 1008ms (885 modules)
+ ✓ Compiled in 856ms (885 modules)
+ ✓ Compiled in 740ms (885 modules)
+ ✓ Compiled in 705ms (885 modules)
+ ✓ Compiled in 1013ms (885 modules)
+ ✓ Compiled in 806ms (885 modules)
+ ✓ Compiled in 545ms (885 modules)
+ ✓ Compiled in 582ms (885 modules)
+ ✓ Compiled in 552ms (885 modules)
+ ✓ Compiled in 637ms (885 modules)
+ ✓ Compiled in 635ms (885 modules)
+ ✓ Compiled in 591ms (885 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\Mangirish\OneDrive\Desktop\My_Fortress_of_Obsession\My Projects\VidhyaVaani\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\Mangirish\OneDrive\Desktop\My_Fortress_of_Obsession\My Projects\VidhyaVaani\.next\cache\webpack\client-development\0.pack.gz'

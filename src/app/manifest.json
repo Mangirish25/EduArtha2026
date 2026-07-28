@@ -1,0 +1,16 @@
+{
+  "name": "EduArtha",
+  "short_name": "EduArtha",
+  "description": "AI explanations for Indian learners",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9f8f4",
+  "theme_color": "#16877a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
